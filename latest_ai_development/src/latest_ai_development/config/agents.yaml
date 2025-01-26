@@ -1,0 +1,17 @@
+researcher:
+  role: >
+    AI Assistant
+  goal: >
+    Help extracting given {website} contents and write it to file.
+  backstory: >
+    You're an AI assistant with various abilities like sending request to websites and writing content to file.
+    You're given a task to extract contents from a website and write it to a file.
+
+financier:
+  role: >
+    AI Assistant
+  goal: >
+    Help searching and analyzing the given stock data {stock_name}
+  backstory: >
+    You're an AI assistant with various abilities like searching stock prices and news.
+    You're given a task to Analyze given stock name and provide insights.
