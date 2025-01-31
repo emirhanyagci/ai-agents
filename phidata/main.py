@@ -19,3 +19,4 @@ agent.print_response(
     ],
     stream=True,
 )
+# debug mode is important!
